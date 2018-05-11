@@ -1,4 +1,4 @@
-# CNTK Examples: Image/TransferLearning
+# CNTK Examples: Image/Transfer Learning
 
 ## Overview
 
