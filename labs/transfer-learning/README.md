@@ -11,5 +11,5 @@ We use the `Flowers` data set that contains 102 different types of flowers: ([Ex
 
 ## Notebook
 
-The notebook for this lab and a detailed walk through are provided in the ['Build your own image classifier using Transfer Learning'](https://docs.microsoft.com/en-us/cognitive-toolkit/Build-your-own-image-classifier-using-Transfer-Learning) tutorial on the CNTK github wiki.
+We will use the notebook `CNTK 301: Image Recognition with Deep Transfer Learning` that comes pre-installed with the Deep_learning_frameworks/CNTK examples.  A detailed walk through is provided in ['Build your own image classifier using Transfer Learning'](https://docs.microsoft.com/en-us/cognitive-toolkit/Build-your-own-image-classifier-using-Transfer-Learning) tutorial on the CNTK github wiki.
 

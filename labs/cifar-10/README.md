@@ -10,5 +10,7 @@ We use the CIFAR-10 data set which is a popular dataset for image classivication
 
 ## Notebook
 
-The notebooks for this lab and a detailed walk through are provided in [CNTK_201* Tutorials](https://github.com/Microsoft/CNTK/tree/master/Tutorials) on the CNTK github wiki.
+For this lab we will use two notebooks that come pre-installed with the Deep_learning_frameworks/CNTK examples: `CNTK_201A_CIFAR-10_DataLoader.ipynb` and `CNTK_201B_CIFAR-10_ImageHandsOn.ipynb`.
+
+A detailed walk through is provided [here](https://github.com/Microsoft/CNTK/tree/master/Tutorials) on the CNTK github wiki.
 

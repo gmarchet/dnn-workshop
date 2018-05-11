@@ -2,14 +2,14 @@
 
 # Introduction
 
-We use Fast R-CNN to find rough locations and types of groceries in pictures. Please see the `FindingGroceriesInImages.ipynb` Jupyter Notebook for details.
+We use Fast R-CNN to find rough locations and types of groceries in pictures. 
 
+## Notebook
+We will use the `FindingGroceriesInImages.ipynb` notebook that comes pre-installed with the Deep_learning_frameworks/CNTK examples.  
 
 ## C Library code
 
 The Fast R-CNN implementation for CNTK depends on custom C code from the original Fast R-CNN [GitHub repo](https://github.com/rbgirshick/fast-rcnn) which has been built for 64-bit Windows and Python 3.4. In theory, building this code for other versions of Python and other operating systems is possible, but I have yet to do so. Once again, if you find yourself doing so, please submit a pull request as I'd love to extend this beyond just Windows.
-
-# Appendix
 
 ## Why Fast R-CNN?
 
