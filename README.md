@@ -1,4 +1,4 @@
-# dnn-workshop
+# Deep Neural Network Workshop
 This repository contains the material for the deep neural network workshop delivered on May14-16, 2018 at Microsoft.
 
 ## Day 1
