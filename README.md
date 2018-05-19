@@ -1,5 +1,31 @@
 # dnn-workshop
-Material for DNN Training
+This repository contains the material for the deep neural network workshop delivered on May14-16, 2018 at Microsoft.
+
+## Day 1
+- Intro to Neural Networks (theory)
+- Lab1: Setup
+- Intro to Keras library
+- Lab2: Keras – simple image classification on mnist dataset
+- Intro to Deep Neural Networks and Convolutional Neural Networks
+- Lab3: Keras – CNNs for image classification on fashion mnist dataset
+## Day 2
+- Intro to Computational Network Toolkit
+- Lab4: CNTK with Cifar10 image classification
+- Transfer learning
+- Lab5: CNTK with transfer learning
+- Intro to Recurrent Neural Networks
+- Lab6: Character models with char-rnn
+- Word Embeddings
+- Lab7: LSTM with Keras and CNTK: sentiment analysis on imdb movie reviews
+## Day 3: 
+- Deployment of models using containers
+- Deployment of models using MLServer
+- Lab8: Deploying a CNN model to ML cluster
+- Introduction to Cognitive Services 
+- Introduction to Generative Adversarial Networks
+- Lab9: Build a simple GAN
+- Introduction to Reinforcement Learning
+- Lab10: A simple Q-learning RL model with CNTK
 
 ## Recommended Readings
 - Develop Your First Neural Network in Python With Keras Step-By-Step: https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
