@@ -13,8 +13,7 @@ Microsoft's Data Science Virtual Machine ( [DSVM](https://docs.microsoft.com/en-
 These labs have the following prerequisites that are detailed out in the Setup document. 
 
 - An Azure subscription: To obtain one if you don't already have access, see ([Get Azure Free Trial](https://azure.microsoft.com/en-us/free/)).
-- Create a Linux Deep Learning Virtual Machine (DLVM)
-- An Xfce3 remote-desktop client (X2G0 is recommended)
+- Create a Linux or Windows Deep Learning Virtual Machine (DLVM)
+- If using Ubuntu DLVM, an Xfce3 remote-desktop client (X2G0 is recommended)
 - Download the git repro to the 'notebooks' folder on the DLVM
-- Access Jupyterhub on DLVM remotely from laptop
 
