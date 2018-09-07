@@ -15,5 +15,5 @@ These labs have the following prerequisites that are detailed out in the Setup d
 - An Azure subscription: To obtain one if you don't already have access, see ([Get Azure Free Trial](https://azure.microsoft.com/en-us/free/)).
 - Create a Linux or Windows Deep Learning Virtual Machine (DLVM)
 - If using Ubuntu DLVM, an Xfce3 remote-desktop client (X2G0 is recommended)
-- Download the git repro to the 'notebooks' folder on the DLVM
+- Download the git repro to a folder on the DLVM
 
